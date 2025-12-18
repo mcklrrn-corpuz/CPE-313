@@ -1,2 +1,2 @@
 # CPE-313
-Data Science 3
+CPE 313 Advanced Machine Learning and Deep Learning (Data Science 3)
